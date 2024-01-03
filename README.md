@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaledAlShweike
 - 👀 I’m interested in technology and business .
-- 🌱 I’m currently learning Back end develpment (Laravel)
+- 🌱 I’m currently Working as  Back end develpment using Laravel framework (Self-employeed)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [@Stevee](https://t.me/EngKhaled23)
 
